@@ -1,0 +1,13 @@
+{
+  "name": "teste-versionamento",
+  "version": "1.0.0",
+  "description": "",
+  
+  "scripts": {
+    "api-tests": "newman run newman run Imgur API - cnaeInformation.postman_collection.json"
+  },
+  "author": "",
+  "dependencies": {
+    "newman": "^4.4.1"
+  }
+}
